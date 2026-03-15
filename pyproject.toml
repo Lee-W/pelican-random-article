@@ -1,6 +1,6 @@
 [project]
 name = "pelican-random-article"
-version = "0.1.0"
+version = "0.2.0"
 description = "A Pelican plugin that generates a /random page redirecting visitors to a random article."
 readme = "README.md"
 license = { text = "MIT" }
